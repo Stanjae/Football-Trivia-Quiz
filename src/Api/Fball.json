@@ -1,0 +1,78 @@
+[
+      {
+        "question": "Which country won the 2018 FIFA World Cup?",
+        "options": ["Brazil", "France", "Germany", "Argentina"],
+        "correctAnswer": "France"
+      },
+      {
+        "question": "Who is the all-time leading goal scorer in the UEFA Champions League?",
+        "options": ["Lionel Messi", "Cristiano Ronaldo", "Raul", "Robert Lewandowski"],
+        "correctAnswer": "Cristiano Ronaldo"
+      },
+      {
+        "question": "Which football club has won the most UEFA Champions League titles?",
+        "options": ["Real Madrid", "FC Barcelona", "AC Milan", "Manchester United"],
+        "correctAnswer": "Real Madrid"
+      },
+      {
+        "question": "Who is the most expensive football transfer in history?",
+        "options": ["Neymar Jr.", "Kylian Mbappe", "Cristiano Ronaldo", "Lionel Messi"],
+        "correctAnswer": "Neymar Jr."
+      },
+      {
+        "question": "Which country has won the most FIFA World Cup titles?",
+        "options": ["Brazil", "Germany", "Italy", "Argentina"],
+        "correctAnswer": "Brazil"
+      },
+      {
+        "question": "Which player has won the Ballon d'Or award the most times?",
+        "options": ["Lionel Messi", "Cristiano Ronaldo", "Michel Platini", "Johan Cruyff"],
+        "correctAnswer": "Lionel Messi"
+      },
+      {
+        "question": "What is the nickname of the Brazilian national football team?",
+        "options": ["La Albiceleste", "Les Bleus", "Seleção", "Azzurri"],
+        "correctAnswer": "Seleção"
+      },
+      {
+        "question": "Which stadium is home to FC Barcelona?",
+        "options": ["Anfield", "Santiago Bernabeu", "Camp Nou", "Old Trafford"],
+        "correctAnswer": "Camp Nou"
+      },
+      {
+        "question": "Who is the manager of the Liverpool FC?",
+        "options": ["Pep Guardiola", "Jurgen Klopp", "Zinedine Zidane", "Carlo Ancelotti"],
+        "correctAnswer": "Jurgen Klopp"
+      },
+      {
+        "question": "Which country hosted the 2014 FIFA World Cup?",
+        "options": ["Brazil", "Germany", "South Africa", "Russia"],
+        "correctAnswer": "Brazil"
+      },
+      {
+        "question": "Which club has won the most English Premier League titles?",
+        "options": ["Liverpool FC", "Manchester United", "Chelsea FC", "Arsenal FC"],
+        "correctAnswer": "Manchester United"
+      },
+      {
+        "question": "Who won the 2020 UEFA European Championship (Euro 2020)?",
+        "options": ["Portugal", "Italy", "France", "England"],
+        "correctAnswer": "Italy"
+      },
+      {
+        "question": "Which country won the first FIFA World Cup in 1930?",
+        "options": ["Uruguay", "Argentina", "Brazil", "Italy"],
+        "correctAnswer": "Uruguay"
+      },
+      {
+        "question": "Which player has scored the most goals in a single FIFA World Cup tournament?",
+        "options": ["Miroslav Klose", "Ronaldo Nazario", "Gerd Muller", "Pele"],
+        "correctAnswer": "Pele"
+      },
+      {
+        "question": "Which footballer is known as 'The King of Football'?",
+        "options": ["Diego Maradona", "Pele", "Alfredo Di Stefano", "Johan Cruyff"],
+        "correctAnswer": "Pele"
+      }
+    ]
+  
